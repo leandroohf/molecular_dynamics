@@ -1,0 +1,18 @@
+#CC = g++-3.3.6 
+CC = g++
+
+CFLAGS =  -Wall -g 
+#CFLAGS =  -Wall -O3
+
+MDOBJ= boundary.o display.o force.o initialize.o update.o	\
+initdisplay.o histogram.o stat.o
+
+### veye
+md:  $(MDOBJ) md.cpp
+	$(CC)  $(MDOBJ) $(CFLAGS) md.cpp -o $@
+
+histtest: histogram.o
+	$(CC)  histogram.o $(CFLAGS) histtest.cpp -o $@
+
+clean:	
+	rm -vf  *~ *.o $(PROJECTS) md
