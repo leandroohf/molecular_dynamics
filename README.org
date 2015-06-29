@@ -1,0 +1,12 @@
+* molecular_dynamics
+
+  Project developed during the course Methods in Computational Physics at IFSC USP
+
+** I Need to explain
+
+  1. What is the project?
+  2. When the project was developed?
+  3. Lennard Jones Potential
+  4. How to run?
+  5. What you can use this
+  6. Comment some C code and cite gnuplot bash 
