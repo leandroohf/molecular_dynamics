@@ -1,12 +1,24 @@
 * molecular_dynamics
 
-  Project developed during the course Methods in Computational Physics at IFSC USP
+  Project developed during the course Methods in Computational Physics
+  at IFSC USP
 
-** I Need to explain
+* TODO Work in Progress (WIP)
+** Explain The project?
+   * What is the project?
+   * When the project was developed?
+   * Cite wikipedia, book and give a bit of history 
 
-  1. What is the project?
-  2. When the project was developed?
-  3. Lennard Jones Potential
-  4. How to run?
-  5. What you can use this
-  6. Comment some C code and cite gnuplot bash 
+** Explain theory
+   
+   * Lennard Jones Potential
+   * Classical Mechanics
+   * Relation with Brownian motion
+   * Relation with Diffusion equation
+   * Relation with statistical mechanics
+   * What you can use this
+
+** How to run?
+ * Provide animated GIF
+ * Graphs
+
