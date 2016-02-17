@@ -1,15 +1,15 @@
-* molecular_dynamics
+* Molecular_dynamics
 
-  Project developed during the course Methods in Computational Physics
-  at IFSC USP
+  Project developed during the course: Methods in Computational Physics
+  at IFSC USP (2003). 
 
-* TODO Work in Progress (WIP)
-** Explain The project?
+* Work in Progress (WIP)
+** TODO Explain The project?
    * What is the project?
    * When the project was developed?
    * Cite wikipedia, book and give a bit of history 
 
-** Explain theory
+** TODO tExplain theory
    
    * Lennard Jones Potential
    * Classical Mechanics
@@ -18,7 +18,7 @@
    * Relation with statistical mechanics
    * What you can use this
 
-** How to run?
+** TODO How to run?
  * Provide animated GIF
  * Graphs
 
